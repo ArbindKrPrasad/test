@@ -2,18 +2,4 @@
 Hiiii this is test file
 
 
-Hiii
-
-
-Hi twice
-
-Hi thrice
-
-once again
-
-
-123
-
-456
-
-789
+yes
